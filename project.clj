@@ -1,4 +1,4 @@
-(defproject fleet "0.10.1"
+(defproject fleet "0.10.1-jvm1.6"
   :description "Templating System for Clojure"
   :url "http://github.com/Flamefork/fleet"
   :license {:name "MIT License"
